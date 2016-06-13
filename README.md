@@ -22,5 +22,14 @@ Meteor, Mongo and React demo
 
 >meteor npm install --save react react-dom
 
-
 2.2  Replace starter HTML code (see file changes)
+
+delete client/main.js
+
+2.3  Replace starter JS - client/main.jsx
+
+2.4  Create App component - imports/ui/App.jsx
+
+2.5  Create Task component - imports/ui/Task.jsx
+
+Replace main.css with this code
