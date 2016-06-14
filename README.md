@@ -40,4 +40,12 @@ Replace main.css with this code
 server/main.js
 
 > meteor npm install --save react-addons-pure-render-mixin
+
 > meteor add react-meteor-data
+
+3.4  Modify App component to get tasks from collection
+imports/ui/App.jsx
+
+>meteor mongo
+
+>db.tasks.insert({ text: "Hello world!", createdAt: new Date() });
