@@ -36,16 +36,18 @@ Replace main.css with this code
 
 3.1  Create tasks collection - imports/api/tasks.js
 
-3.2  Load tasks collection on the server
-server/main.js
+3.2  Load tasks collection on the server - server/main.js
 
 > meteor npm install --save react-addons-pure-render-mixin
 
 > meteor add react-meteor-data
 
-3.4  Modify App component to get tasks from collection
-imports/ui/App.jsx
+3.4  Modify App component to get tasks from collection - imports/ui/App.jsx
 
 >meteor mongo
 
 >db.tasks.insert({ text: "Hello world!", createdAt: new Date() });
+
+4.1  Add form for new tasks
+
+4.2  Add handleSubmit method to App component - imports/ui/App.jsx
