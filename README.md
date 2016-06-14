@@ -63,3 +63,11 @@ Replace main.css with this code
 7.3  Add toggleHideCompleted handler to App - imports/ui/App.jsx
 
 7.4  Filter tasks in renderTasks - imports/ui/App.jsx
+
+7.5  Update data container to return incompleteCount - imports/ui/App.jsx
+
+7.6  Display incompleteCount in the header - imports/ui/App.jsx
+
+> meteor add accounts-ui accounts-password
+
+8.2  Create Accounts UI wrapper component - imports/ui/AccountsUIWrapper.jsx
