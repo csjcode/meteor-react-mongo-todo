@@ -53,3 +53,5 @@ Replace main.css with this code
 4.2  Add handleSubmit method to App component - imports/ui/App.jsx - Listening for events in React ReactDOM.findDOMNode, inserting into a collection
 
 4.3  Update data container to sort tasks by time
+
+5.1  Update Task component to add features
