@@ -55,3 +55,5 @@ Replace main.css with this code
 4.3  Update data container to sort tasks by time
 
 5.1  Update Task component to add features
+
+7.1  Add hide completed checkbox to App component - imports/ui/App.jsx - client-side data filtering
