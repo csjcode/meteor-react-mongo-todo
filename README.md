@@ -57,3 +57,9 @@ Replace main.css with this code
 5.1  Update Task component to add features
 
 7.1  Add hide completed checkbox to App component - imports/ui/App.jsx - client-side data filtering
+
+7.2  Add intial state to App component - imports/ui/App.jsx
+
+7.3  Add toggleHideCompleted handler to App - imports/ui/App.jsx
+
+7.4  Filter tasks in renderTasks - imports/ui/App.jsx
