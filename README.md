@@ -1,6 +1,6 @@
 # meteor-react-mongo-todo
-Meteor, Mongo and React demo from Meteor official
 
+Meteor, Mongo and React demo from Meteor official site
 
 >mkdir meteor
 
@@ -58,7 +58,7 @@ Replace main.css with this code
 
 7.1  Add hide completed checkbox to App component - imports/ui/App.jsx - client-side data filtering
 
-7.2  Add intial state to App component - imports/ui/App.jsx
+7.2  Add initial state to App component - imports/ui/App.jsx
 
 7.3  Add toggleHideCompleted handler to App - imports/ui/App.jsx
 
@@ -77,3 +77,11 @@ Replace main.css with this code
 8.4  Configure accounts-ui imports/startup/accounts-config.js
 
 8.4  Configure accounts-ui
+
+8.5  Import accounts configuration - client/main.jsx
+
+8.6  Update insert to save username and owner
+
+8.7  Update data container to return data about user - imports/ui/App.jsx
+
+8.8  Wrap new task form to only show when logged in - imports/ui/App.jsx 
