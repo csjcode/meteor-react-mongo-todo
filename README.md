@@ -33,3 +33,11 @@ delete client/main.js
 2.5  Create Task component - imports/ui/Task.jsx
 
 Replace main.css with this code
+
+3.1  Create tasks collection - imports/api/tasks.js
+
+3.2  Load tasks collection on the server
+server/main.js
+
+> meteor npm install --save react-addons-pure-render-mixin
+> meteor add react-meteor-data
