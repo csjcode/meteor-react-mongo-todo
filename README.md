@@ -1,5 +1,5 @@
 # meteor-react-mongo-todo
-Meteor, Mongo and React demo
+Meteor, Mongo and React demo from Meteor official
 
 
 >mkdir meteor
@@ -71,3 +71,9 @@ Replace main.css with this code
 > meteor add accounts-ui accounts-password
 
 8.2  Create Accounts UI wrapper component - imports/ui/AccountsUIWrapper.jsx
+
+8.3  Include sign in form - imports/ui/App.jsx
+
+8.4  Configure accounts-ui imports/startup/accounts-config.js
+
+8.4  Configure accounts-ui
