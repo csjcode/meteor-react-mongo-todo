@@ -84,4 +84,6 @@ Replace main.css with this code
 
 8.7  Update data container to return data about user - imports/ui/App.jsx
 
-8.8  Wrap new task form to only show when logged in - imports/ui/App.jsx 
+8.8  Wrap new task form to only show when logged in - imports/ui/App.jsx
+
+8.9  Update Task component to show username
